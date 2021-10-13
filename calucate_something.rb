@@ -6,7 +6,7 @@ while(next_run) do
   puts "Wie hoch ist deine monatliche Miete in €?"
   miete = gets.to_i
 
-  puts "Wie teuer ist dein Auto?"
+  puts "Wie teuer ist deine Autoversicherung?"
   auto = gets.to_i
 
   puts "Wie hoch sind deine Lebenshaltungskosten?"
